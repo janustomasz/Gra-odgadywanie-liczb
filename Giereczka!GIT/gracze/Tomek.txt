@@ -1,0 +1,7 @@
+0
+Łatwy: 0
+Normalny: 0
+Trudny: 0
+Zaawansowany: 0
+Wygrane w grze mieszanej: 1
+Przegrane w grze mieszanej: 0
